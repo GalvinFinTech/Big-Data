@@ -13,7 +13,7 @@
 - **data**: Chứa dữ liệu đầu vào, bao gồm file `OnlineRetail.csv`.
 
 - **docs**: Chứa tài liệu và tài nguyên.
-    - **Nhom2_Report.pdf**: Báo cáo chi tiết quá trình xây dựng hệ thống.
+    - **241CN1302_Nhóm2.pdf**: Báo cáo chi tiết quá trình xây dựng hệ thống.
     - **Wed_app.mov**: Video demo giới thiệu ứng dụng web.
 
 ## Truy cập tài liệu và mã nguồn
@@ -26,7 +26,7 @@ Trong thư mục này, bạn sẽ tìm thấy:
 
 - Thư mục **src**: Chứa các file code chính (main.py, app.py) và các file code khác.
 - Thư mục **data**: Chứa file dữ liệu `OnlineRetail.csv`.
-- Thư mục **docs**: Chứa file báo cáo `Nhom2_Report.pdf` và video demo `Wed_demo.mov`.
+- Thư mục **docs**: Chứa file báo cáo `241CN1302_Nhóm2.pdf` và video demo `Wed_demo.mov`.
 
 ## Hướng dẫn sử dụng
 
@@ -61,7 +61,7 @@ Xem video demo tại: `Wed_demo.mov`.
 
 ## Tài liệu tham khảo
 
-- **Báo cáo chi tiết**: Xem file `Nhom2_Report.pdf` để biết thêm thông tin về quá trình xây dựng hệ thống.
+- **Báo cáo chi tiết**: Xem file `241CN1302_Nhóm2.pdf` để biết thêm thông tin về quá trình xây dựng hệ thống.
 - **Hệ thống gợi ý sản phẩm**: Dựa trên dữ liệu từ file `OnlineRetail.csv`.
 
 ## Liên hệ
