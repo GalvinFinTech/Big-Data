@@ -6,7 +6,6 @@
 
 ## Cấu trúc dự án
 
-
 - **src**: Chứa mã nguồn Python của hệ thống.
     - **main.py**: File chạy chính của hệ thống.
     - **rcm_sys.py**: File chứa code cho ứng dụng web.
