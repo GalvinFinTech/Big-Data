@@ -2,12 +2,12 @@
 
 ## Giới thiệu
 
-Đây là hệ thống gợi ý sản phẩm được xây dựng để phân tích dữ liệu khách hàng và đưa ra các gợi ý sản phẩm phù hợp. Hệ thống sử dụng thuật toán **[Collaborative Filtering]** để phân tích hành vi của khách hàng.
+Đây là hệ thống gợi ý sản phẩm được xây dựng để phân tích dữ liệu khách hàng và đưa ra các gợi ý sản phẩm phù hợp. Hệ thống sử dụng thuật toán **Collaborative Filtering** để phân tích hành vi của khách hàng.
 
 ## Cấu trúc dự án
 
 - **src**: Chứa mã nguồn Python của hệ thống.
-    - **main.py**: File chạy chính của hệ thống.
+    - **241CN1302_Nhóm2- Colab.ipynb**: File chạy chính của hệ thống.
     - **rcm_sys.py**: File chứa code cho ứng dụng web.
   
 - **data**: Chứa dữ liệu đầu vào, bao gồm file `OnlineRetail.csv`.
@@ -36,9 +36,9 @@ Trong thư mục này, bạn sẽ tìm thấy:
 
 ### Cách chạy dự án:
 1. **Chạy hệ thống**:  
-    Để bắt đầu hệ thống, chạy file `main.py`:
+    Để bắt đầu hệ thống, chạy file `241CN1302_Nhóm2- Colab.ipynb`:
     ```bash
-    python src/main.py
+    python src/241CN1302_Nhóm2- Colab.ipynb
     ```
 
 2. **Chạy ứng dụng web (nếu có)**:  
@@ -50,7 +50,7 @@ Trong thư mục này, bạn sẽ tìm thấy:
 ## Tính năng chính
 
 - **Phân tích dữ liệu khách hàng**:  
-    Sử dụng thuật toán **[K-means]** để phân nhóm khách hàng.
+    Sử dụng thuật toán **K-means** để phân nhóm khách hàng.
 
 - **Gợi ý sản phẩm**:  
     Gợi ý các sản phẩm phù hợp dựa trên hành vi khách hàng.
@@ -66,7 +66,7 @@ Xem video demo tại: `Wed_demo.mov`.
 
 ## Liên hệ
 
-- **Tác giả**: _[Nhom2]_
+- **Tác giả**: _[Galvin]_
 - **Email**: [vinh21414@st.uel.edu.com](mailto:vinh21414@st.uel.edu.com)
 - **GitHub**: [Link GitHub](https://github.com/GalvinFinTech?)
 
